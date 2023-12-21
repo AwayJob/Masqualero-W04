@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/AwayJob/Masqualero-W04/assets/66241829/8ee313bc-bf5f-49db-a53f-0333ffb31123" alt="Masqualero W04" height="512"></p>
+<p align="center"><img src="https://github.com/AwayJob/Masqualero-W04/assets/66241829/8ee313bc-bf5f-49db-a53f-0333ffb31123" alt="Masqualero W04" height="256"></p>
 
 <h1 align="center">Masqualero W04</h1>
 
